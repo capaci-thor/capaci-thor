@@ -17,5 +17,5 @@ I'm Eduardo 🇲🇽
   <img src="https://media.giphy.com/media/l0G18BkChcRRctMZ2/giphy.gif" width="300"  />
 </td>
   
-<tr>
+</tr>
 </table>
